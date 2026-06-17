@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pt
+*.jpg
+*.png
+*.jpeg
+results/
+runs/
+.env

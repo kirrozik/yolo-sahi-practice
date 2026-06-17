@@ -1,0 +1,4 @@
+ultralytics
+sahi
+opencv-python-headless
+gradio
